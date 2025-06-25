@@ -27,21 +27,7 @@ PLOT_PRICE_PREDICTOR/
 │   ├── index.html  
 ```
 
-## Installation  
 
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/my-repo-link.git
-   cd PLOT_PRICE_PREDICTOR
-   ```  
-2. Install dependencies:  
-   ```sh
-   pip install -r backend/requirements.txt
-   ```  
-3. Run the Flask app:  
-   ```sh
-   python backend/app.py
-   ```  
 
 ## Features  
 
@@ -60,12 +46,7 @@ PLOT_PRICE_PREDICTOR/
 🔹 **Map Integration:** Show property locations on an interactive map.  
 🔹 **PDF Report Generation:** Generate downloadable property valuation reports.  
 
-## References  
 
-- **Flask Documentation** - [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)  
-- **Pandas & NumPy** - [https://pandas.pydata.org/](https://pandas.pydata.org/)  
-- **Matplotlib & Seaborn** for visualizations  
-- **Claude.ai** for enhancing UI design & fixing errors (Really Helpful)
 
 ## Contributions  
 
