@@ -10,7 +10,6 @@ MSME Asset Valuer helps small businesses assess property values with AI-driven i
 PLOT_PRICE_PREDICTOR/  
 │  
 ├── backend/  
-│   ├── app.py  
 │   ├── train_model.py  
 │   ├── filtered_housing_data.csv  
 │   ├── model.pkl  
